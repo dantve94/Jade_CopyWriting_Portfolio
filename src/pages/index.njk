@@ -4,7 +4,7 @@ permalink: /
 ---
 <section class="hero wrap">
   <p class="eyebrow">{{ site.name }} · {{ site.role }}</p>
-  <h1 class="hero-title">{{ site.positioning }}</h1>
+  <h1 class="hero-title">{% if site.highlight %}{{ site.positioning | replace(site.highlight, "<mark>" + site.highlight + "</mark>") | safe }}{% else %}{{ site.positioning }}{% endif %}</h1>
   <p class="hero-intro">{{ site.intro }}</p>
   <div class="hero-actions">
     <a class="btn" href="/work/">View my work</a>

@@ -5,7 +5,7 @@ layout: layouts/base.njk
 <article class="sample">
   <header class="sample-header wrap">
     <a class="back-link" href="/work/#{{ section | slugify }}"><span aria-hidden="true">←</span> All work</a>
-    <p class="eyebrow">{{ section }} · {{ format }}{% if type == "personal" %} · Personal work{% endif %}</p>
+    <p class="eyebrow">{{ section }}{% if type == "personal" %} · Personal work{% endif %}</p>
     <h1 class="sample-title">{{ title }}</h1>
     <p class="sample-sub">{% if type == "personal" %}Short fiction, published on {{ published_on }}{% else %}Written for {{ client }}{% endif %}</p>
 

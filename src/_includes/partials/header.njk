@@ -1,8 +1,10 @@
 <header class="site-header">
   <div class="wrap header-inner">
     <a class="brand" href="/">
-      <span class="brand-name">{{ site.name }}</span>
-      <span class="brand-role">{{ site.role }}</span>
+      <span class="brand-text">
+        <span class="brand-name">{{ site.name }}</span>
+        <span class="brand-role">{{ site.role }}</span>
+      </span>
     </a>
     <nav class="site-nav" aria-label="Main">
       <a href="/work/" {% if page.url.startsWith("/work/") %}aria-current="page"{% endif %}>Work</a>
