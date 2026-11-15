@@ -1,13 +1,16 @@
 <footer class="site-footer">
   <div class="wrap footer-inner">
-    <div>
-      <p class="footer-title">Let's work together.</p>
-      <p class="muted">Based in {{ site.location }}, writing for brands anywhere.</p>
+    <div class="footer-message">
+      <p class="footer-title">Got a brief? I'd love to hear about it.</p>
+      <p class="muted">Thanks for reading. If you've got a brief, a blank page, or a brand that needs its voice back, drop me a line. Based in {{ site.location }}, writing for brands anywhere.</p>
+      <a class="footer-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      <p class="signoff">Jade</p>
     </div>
     <ul class="contact-list">
-      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
       <li><a href="{{ site.linkedin }}" rel="noopener">LinkedIn</a></li>
+      <li><a href="/work/">All the work</a></li>
+      <li><a href="/about/">About me</a></li>
     </ul>
   </div>
-  <div class="wrap footer-small muted">© {{ site.name }}</div>
+  <div class="wrap footer-small muted">{% set sfClass = "footer-mark" %}{% include "partials/sunflower.njk" %} © {{ site.name }}</div>
 </footer>

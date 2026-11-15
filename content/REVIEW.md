@@ -10,6 +10,20 @@ The `role` and `result` fields are blank on all 9 samples. Hiring managers look 
 - **result**: any metric, client feedback, or outcome. Leave blank if unknown; don't invent one.
 - **published** (date, `YYYY-MM-DD`): missing on 02, 03, 07, 08, 09.
 
+## 1b. Jade's notes (optional, but they add a lot)
+
+Each sample can have a short `note` that appears as a handwritten sticky note above the copy. It should be in Jade's own words: one or two sentences on the brief or her favourite line. For example:
+
+```
+note: "The brief: make a salon visit feel like a treat. My favourite line is still the first one: Walk in. Float out."
+```
+
+Keep each note under about 30 words. Notes are hidden until written.
+
+## 1c. Photo
+
+The photo in `src/assets/img/jade.jpg` is only 200×200px, so it looks slightly soft on high-resolution screens. Swapping in the same photo at 600×600px or larger will fix that.
+
 ## 2. Confirm the live copy is still Jade's
 
 Client websites get edited after handover. Check each website sample against Jade's original files and remove any sections she didn't write.

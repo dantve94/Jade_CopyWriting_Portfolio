@@ -4,7 +4,7 @@ permalink: /
 ---
 <section class="hero wrap">
   <p class="eyebrow">{{ site.name }} · {{ site.role }}</p>
-  <h1 class="hero-title">{% if site.highlight %}{{ site.positioning | replace(site.highlight, "<mark>" + site.highlight + "</mark>") | safe }}{% else %}{{ site.positioning }}{% endif %}</h1>
+  <h1 class="hero-title">{% if site.highlight %}{{ site.positioning | replace(site.highlight, '<span class="scribble">' + site.highlight + '<svg viewBox="0 0 240 16" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M3 10.5 C 45 4, 92 13, 138 7.5 S 205 5, 237 9.5"/><path class="second" d="M14 13.5 C 70 9.5, 140 14.5, 226 11"/></svg></span>') | safe }}{% else %}{{ site.positioning }}{% endif %}</h1>
   <p class="hero-intro">{{ site.intro }}</p>
   <div class="hero-actions">
     <a class="btn" href="/work/">View my work</a>
@@ -14,8 +14,8 @@ permalink: /
 
 <section class="wrap block" aria-labelledby="featured-heading">
   <div class="block-head">
-    <h2 id="featured-heading">Start here</h2>
-    <p class="muted">Three pieces that show what I do best.</p>
+    <h2 id="featured-heading">Start with these three</h2>
+    <p class="muted">The pieces I'd hand you first.</p>
   </div>
   <div class="grid">
     {% for item in collections.samples | featured %}
@@ -43,9 +43,15 @@ permalink: /
 </section>
 
 <section class="wrap block about-teaser">
-  <div>
-    <h2>Hello, I'm Jade.</h2>
-    <p>Writing is more than just a job to me. It's how we experience and capture life. I've spent over a decade turning briefs into copy that sounds like the brand and speaks to the people it's for.</p>
-    <p><a class="text-link" href="/about/">More about me →</a></p>
+  <div class="teaser-inner">
+    <figure class="portrait">
+      <img src="/assets/img/jade.jpg" alt="Jade Robertson, smiling and looking away from the camera" width="200" height="200" loading="lazy">
+      <figcaption class="hand-note" aria-hidden="true">hi there!</figcaption>
+    </figure>
+    <div>
+      <h2>Hello, I'm Jade.</h2>
+      <p>Writing is more than just a job to me. It's how we experience and capture life. I've spent over a decade turning briefs into copy that sounds like the brand and speaks to the people it's for.</p>
+      <p><a class="text-link" href="/about/">More about me →</a></p>
+    </div>
   </div>
 </section>

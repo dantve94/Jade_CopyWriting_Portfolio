@@ -36,6 +36,7 @@ live_url: "https://…"
 published: "2026-03-01"      # YYYY-MM-DD, or leave ""
 role: "Concept, subject lines, body copy"
 result: "32% open rate"      # shown highlighted when filled in
+note: "The brief was… My favourite line is…"   # optional: shown as a handwritten sticky note
 featured: true               # true = shown under "Start here" on the home page
 order: 10                    # position in lists
 excerpt: "One or two lines for the card."
@@ -45,7 +46,9 @@ excerpt: "One or two lines for the card."
 The copy itself, in Markdown. Write **[CTA] Book now** to show a button label.
 ```
 
-Blank fields (`role`, `result`, `published`) are hidden on the page until they're filled in.
+Blank fields (`role`, `result`, `published`, `note`) are hidden on the page until they're filled in.
+
+Jade's photo is `src/assets/img/jade.jpg`. Replace that file to change it (a square image, ideally at least 600×600px).
 
 Site-wide details (name, positioning line, intro, email, LinkedIn, optional résumé link) are in `src/_data/site.json`. To add a résumé, put the PDF in `src/assets/` and set `"resume": "/assets/your-file.pdf"`.
 

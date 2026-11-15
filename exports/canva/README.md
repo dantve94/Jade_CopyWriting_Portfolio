@@ -29,6 +29,7 @@ Each page is one long canvas, 1280px wide, the same as the website on a desktop.
 |---|---|
 | Headings and the copy itself | Source Serif 4 (Semibold for headings, Regular for body) |
 | Navigation, labels, buttons | Inter (Regular / Medium) |
+| Handwritten accents ("hi there!", sign-off, notes) | Caveat (Semibold) |
 
 ## Note
 

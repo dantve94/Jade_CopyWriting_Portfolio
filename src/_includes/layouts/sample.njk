@@ -4,7 +4,7 @@ layout: layouts/base.njk
 {% set nav = collections.samples | neighbours(page.url) %}
 <article class="sample">
   <header class="sample-header wrap">
-    <a class="back-link" href="/work/#{{ section | slugify }}"><span aria-hidden="true">←</span> All work</a>
+    <a class="back-link" href="/work/#{{ section | slugify }}"><span aria-hidden="true">←</span> Back to all the work</a>
     <p class="eyebrow">{{ section }}{% if type == "personal" %} · Personal work{% endif %}</p>
     <h1 class="sample-title">{{ title }}</h1>
     <p class="sample-sub">{% if type == "personal" %}Short fiction, published on {{ published_on }}{% else %}Written for {{ client }}{% endif %}</p>
@@ -21,8 +21,15 @@ layout: layouts/base.njk
       <div><dt>Length</dt><dd>{{ content | readingTime }}</dd></div>
     </dl>
 
+    {% if note %}
+    <aside class="jade-note" aria-label="A note from Jade">
+      <p class="jade-note-label">Jade's note</p>
+      <p>{{ note }}</p>
+    </aside>
+    {% endif %}
+
     <div class="sample-actions">
-      <a class="btn" href="#the-copy">Read {% if format == "Website" %}the copy{% else %}the piece{% endif %}</a>
+      <a class="btn" href="#the-copy">Have a read</a>
       {% if live_url %}<a class="btn btn-ghost" href="{{ live_url }}" rel="noopener" target="_blank">See it live on {{ live_url | hostname }} <span aria-hidden="true">↗</span></a>{% endif %}
     </div>
   </header>

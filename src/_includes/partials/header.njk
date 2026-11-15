@@ -1,6 +1,7 @@
 <header class="site-header">
   <div class="wrap header-inner">
-    <a class="brand" href="/">
+    <a class="brand" href="/" aria-label="{{ site.name }}, home">
+      {% set sfClass = "brand-mark" %}{% include "partials/sunflower.njk" %}
       <span class="brand-text">
         <span class="brand-name">{{ site.name }}</span>
         <span class="brand-role">{{ site.role }}</span>
@@ -10,7 +11,7 @@
       <a href="/work/" {% if page.url.startsWith("/work/") %}aria-current="page"{% endif %}>Work</a>
       <a href="/about/" {% if page.url == "/about/" %}aria-current="page"{% endif %}>About</a>
       {% if site.resume %}<a href="{{ site.resume }}">Résumé</a>{% endif %}
-      <a class="btn btn-small" href="mailto:{{ site.email }}">Get in touch</a>
+      <a class="btn btn-small" href="mailto:{{ site.email }}">Say hello</a>
     </nav>
   </div>
 </header>

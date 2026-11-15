@@ -7,6 +7,6 @@
     <h3 class="card-title">{{ item.data.title }}</h3>
     <p class="card-client">{% if item.data.type == "personal" %}Published on {{ item.data.published_on }}{% else %}{{ item.data.client }}{% endif %}{% if item.data.industry and item.data.type != "personal" %} · {{ item.data.industry }}{% endif %}</p>
     <p class="card-excerpt">{{ item.data.excerpt | truncate(170) }}</p>
-    <span class="card-cta">Read {% if item.data.format == "Website" %}the copy{% else %}the piece{% endif %} <span aria-hidden="true">→</span></span>
+    <span class="card-cta">Have a read <span aria-hidden="true">→</span></span>
   </a>
 </article>
