@@ -7,7 +7,7 @@ format: "Short story"
 industry: "Fiction (short story)"
 type: "personal"
 live_url: "https://www.wattpad.com/1529261513-the-house-that-remembered"
-date: ""
+published: ""
 role: ""
 result: ""
 featured: false

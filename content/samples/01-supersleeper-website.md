@@ -1,13 +1,14 @@
 ---
-title: "Composite Retaining Walls in Australia - SuperSleeper"
+title: "SuperSleeper homepage"
+live_page_title: "Composite Retaining Walls in Australia - SuperSleeper"
 client: "SuperSleeper"
-published_on: "SuperSleeper"
+published_on: "supersleepers.com.au"
 section: "Websites"
 format: "Website"
 industry: "Construction & landscaping (composite retaining walls)"
 type: "client"
 live_url: "https://supersleepers.com.au/"
-date: "2023-09-04"
+published: "2023-09-04"
 role: ""
 result: ""
 featured: false

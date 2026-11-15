@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+permalink: /work/
+title: Work
+description: Website copy, blogs and short stories by Jade Robertson, Senior Copywriter.
+---
+<section class="wrap page-head">
+  <h1>Work</h1>
+  <p class="lede">{{ collections.samples | length }} pieces across websites, blogs and fiction. Every piece opens with the copy on the page, plus a link to see it live.</p>
+
+  <div class="filters" role="group" aria-label="Filter by type" hidden>
+    <button type="button" class="chip" data-filter="all" aria-pressed="true">All <span class="chip-count">{{ collections.samples | length }}</span></button>
+    {% for section in collections.samples | sections %}
+    <button type="button" class="chip" data-filter="{{ section | slugify }}" aria-pressed="false">{{ section }} <span class="chip-count">{{ collections.samples | bySection(section) | length }}</span></button>
+    {% endfor %}
+  </div>
+</section>
+
+<div class="wrap">
+  {% for section in collections.samples | sections %}
+  <section class="work-section" id="{{ section | slugify }}" data-section="{{ section | slugify }}">
+    <h2 class="section-title">{{ section }}</h2>
+    <div class="grid">
+      {% for item in collections.samples | bySection(section) %}
+        {% include "partials/card.njk" %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</div>

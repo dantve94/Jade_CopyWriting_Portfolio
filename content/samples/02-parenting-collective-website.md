@@ -1,13 +1,14 @@
 ---
-title: "Conscious Parenting Coach Perth | Parenting Collective"
+title: "Parenting Collective homepage"
+live_page_title: "Conscious Parenting Coach Perth | Parenting Collective"
 client: "Parenting Collective"
-published_on: "Parenting Collective"
+published_on: "parentingcollective.com.au"
 section: "Websites"
 format: "Website"
 industry: "Parenting & sleep coaching"
 type: "client"
 live_url: "https://parentingcollective.com.au/"
-date: ""
+published: ""
 role: ""
 result: ""
 featured: true

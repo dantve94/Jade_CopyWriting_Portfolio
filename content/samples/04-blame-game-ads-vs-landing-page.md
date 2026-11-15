@@ -1,13 +1,13 @@
 ---
 title: "The Blame Game: Ads versus Landing Page"
 client: "Digital Content Lab (DC Lab)"
-published_on: "Digital Content Lab (DC Lab)"
+published_on: "DC Lab blog"
 section: "Blogs"
 format: "Blog"
 industry: "Digital marketing agency"
 type: "client"
 live_url: "https://www.dclab.co.za/post/dclab-jan-blog-2-the-blame-game-ads-versus-landing-page"
-date: "2026-02-27"
+published: "2026-02-27"
 role: ""
 result: ""
 featured: true

@@ -7,7 +7,7 @@ format: "Short story"
 industry: "Fiction (short story)"
 type: "personal"
 live_url: "https://www.wattpad.com/1601122643-her-whisper"
-date: ""
+published: ""
 role: ""
 result: ""
 featured: false

@@ -1,13 +1,14 @@
 ---
-title: "Hair Salon in Arrowtown - Professional Hair Stylists | D'or Hairstylists"
+title: "D'or Hairstylists homepage"
+live_page_title: "Hair Salon in Arrowtown - Professional Hair Stylists | D'or Hairstylists"
 client: "D'or Hairstylists"
-published_on: "D'or Hairstylists"
+published_on: "dorhair.co.nz"
 section: "Websites"
 format: "Website"
 industry: "Hair & beauty salon"
 type: "client"
 live_url: "https://www.dorhair.co.nz/"
-date: ""
+published: ""
 role: ""
 result: ""
 featured: true

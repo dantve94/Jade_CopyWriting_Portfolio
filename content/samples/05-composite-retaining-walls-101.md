@@ -1,13 +1,13 @@
 ---
 title: "SuperSleepers Guide: Composite Retaining Walls 101"
 client: "SuperSleeper"
-published_on: "SuperSleeper"
+published_on: "SuperSleeper blog"
 section: "Blogs"
 format: "Blog"
 industry: "Construction & landscaping (composite retaining walls)"
 type: "client"
 live_url: "https://supersleepers.com.au/supersleepers-guide-composite-retaining-walls-101/"
-date: "2024-02-01"
+published: "2024-02-01"
 role: ""
 result: ""
 featured: false

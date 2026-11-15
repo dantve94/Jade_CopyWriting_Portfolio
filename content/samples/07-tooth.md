@@ -7,7 +7,7 @@ format: "Short story"
 industry: "Fiction (short story)"
 type: "personal"
 live_url: "https://www.wattpad.com/1453907886-tooth"
-date: ""
+published: ""
 role: ""
 result: ""
 featured: false

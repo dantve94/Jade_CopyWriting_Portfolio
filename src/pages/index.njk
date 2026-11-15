@@ -1,0 +1,51 @@
+---
+layout: layouts/base.njk
+permalink: /
+---
+<section class="hero wrap">
+  <p class="eyebrow">{{ site.name }} · {{ site.role }}</p>
+  <h1 class="hero-title">{{ site.positioning }}</h1>
+  <p class="hero-intro">{{ site.intro }}</p>
+  <div class="hero-actions">
+    <a class="btn" href="/work/">View my work</a>
+    <a class="btn btn-ghost" href="mailto:{{ site.email }}">Email me</a>
+  </div>
+</section>
+
+<section class="wrap block" aria-labelledby="featured-heading">
+  <div class="block-head">
+    <h2 id="featured-heading">Start here</h2>
+    <p class="muted">Three pieces that show what I do best.</p>
+  </div>
+  <div class="grid">
+    {% for item in collections.samples | featured %}
+      {% include "partials/card.njk" %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="wrap block" aria-labelledby="range-heading">
+  <div class="block-head">
+    <h2 id="range-heading">What I write</h2>
+  </div>
+  <ul class="range">
+    {% for section in collections.samples | sections %}
+    {% set items = collections.samples | bySection(section) %}
+    <li>
+      <a href="/work/#{{ section | slugify }}">
+        <span class="range-name">{{ section }}</span>
+        <span class="range-count">{{ items | length }} {% if items | length == 1 %}piece{% else %}pieces{% endif %}</span>
+        <span class="range-list">{{ items | rangeNames | join(", ") }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="wrap block about-teaser">
+  <div>
+    <h2>Hello, I'm Jade.</h2>
+    <p>Writing is more than just a job to me. It's how we experience and capture life. I've spent over a decade turning briefs into copy that sounds like the brand and speaks to the people it's for.</p>
+    <p><a class="text-link" href="/about/">More about me →</a></p>
+  </div>
+</section>

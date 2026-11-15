@@ -1,13 +1,13 @@
 ---
 title: "5 Reasons why your brand needs a graphic designer"
 client: "Digital Content Lab (DC Lab)"
-published_on: "Digital Content Lab (DC Lab)"
+published_on: "DC Lab blog"
 section: "Blogs"
 format: "Blog"
 industry: "Digital marketing agency"
 type: "client"
 live_url: "https://www.dclab.co.za/post/5-reasons-why-your-brand-needs-a-graphic-designer"
-date: "2022-10-19"
+published: "2022-10-19"
 role: ""
 result: ""
 featured: false

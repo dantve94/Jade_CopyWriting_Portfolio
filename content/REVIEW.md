@@ -8,7 +8,7 @@ The `role` and `result` fields are blank on all 9 samples. Hiring managers look 
 
 - **role**: what Jade wrote, e.g. "Full homepage + service pages", "Blog post, concept to final".
 - **result**: any metric, client feedback, or outcome. Leave blank if unknown; don't invent one.
-- **date**: missing on 02, 03, 07, 08, 09.
+- **published** (date, `YYYY-MM-DD`): missing on 02, 03, 07, 08, 09.
 
 ## 2. Confirm the live copy is still Jade's
 

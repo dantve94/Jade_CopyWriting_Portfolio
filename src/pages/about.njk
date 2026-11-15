@@ -1,0 +1,31 @@
+---
+layout: layouts/base.njk
+permalink: /about/
+title: About
+description: About Jade Robertson, Senior Copywriter based in South Africa.
+---
+<section class="wrap-narrow page-head about">
+  <p class="eyebrow">About</p>
+  <h1>I listen to the brief, then write words that sound like you.</h1>
+
+  <div class="prose">
+    <p>I'm a senior copywriter who listens carefully to the brief and writes words that sound like your brand to bring the right people closer.</p>
+    <p>With over a decade of experience, I've had the time to hone my craft. Writing is more than just a job to me. It's a way through which we can experience and capture life.</p>
+    <p>I write website copy, blogs and long-form content for brands in industries from construction and landscaping to parenting, beauty and digital marketing. Outside client work, I write short fiction.</p>
+  </div>
+
+  <h2>What I write</h2>
+  <ul class="checklist">
+    <li>Website and landing page copy</li>
+    <li>Blogs, guides and thought leadership</li>
+    <li>SEO-friendly service and product pages</li>
+    <li>Brand voice and storytelling</li>
+  </ul>
+
+  <h2>Get in touch</h2>
+  <ul class="contact-cards">
+    <li><a href="mailto:{{ site.email }}"><span class="muted">Email</span><strong>{{ site.email }}</strong></a></li>
+    <li><a href="{{ site.linkedin }}" rel="noopener"><span class="muted">LinkedIn</span><strong>My career so far</strong></a></li>
+    {% if site.resume %}<li><a href="{{ site.resume }}"><span class="muted">Résumé</span><strong>Download PDF</strong></a></li>{% endif %}
+  </ul>
+</section>

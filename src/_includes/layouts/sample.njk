@@ -1,0 +1,45 @@
+---
+layout: layouts/base.njk
+---
+{% set nav = collections.samples | neighbours(page.url) %}
+<article class="sample">
+  <header class="sample-header wrap">
+    <a class="back-link" href="/work/#{{ section | slugify }}"><span aria-hidden="true">←</span> All work</a>
+    <p class="eyebrow">{{ section }} · {{ format }}{% if type == "personal" %} · Personal work{% endif %}</p>
+    <h1 class="sample-title">{{ title }}</h1>
+    <p class="sample-sub">{% if type == "personal" %}Short fiction, published on {{ published_on }}{% else %}Written for {{ client }}{% endif %}</p>
+
+    <dl class="glance">
+      {% if type != "personal" %}
+      <div><dt>Client</dt><dd>{{ client }}</dd></div>
+      <div><dt>Industry</dt><dd>{{ industry }}</dd></div>
+      {% endif %}
+      <div><dt>Format</dt><dd>{{ format }}</dd></div>
+      {% if published %}<div><dt>Published</dt><dd>{{ published | monthYear }}</dd></div>{% endif %}
+      {% if role %}<div><dt>My role</dt><dd>{{ role }}</dd></div>{% endif %}
+      {% if result %}<div class="glance-result"><dt>Result</dt><dd>{{ result }}</dd></div>{% endif %}
+      <div><dt>Length</dt><dd>{{ content | readingTime }}</dd></div>
+    </dl>
+
+    <div class="sample-actions">
+      <a class="btn" href="#the-copy">Read {% if format == "Website" %}the copy{% else %}the piece{% endif %}</a>
+      {% if live_url %}<a class="btn btn-ghost" href="{{ live_url }}" rel="noopener" target="_blank">See it live on {{ live_url | hostname }} <span aria-hidden="true">↗</span></a>{% endif %}
+    </div>
+  </header>
+
+  <section class="copy-section" id="the-copy" aria-label="The copy">
+    <div class="wrap-narrow">
+      {% if format == "Website" %}
+      <p class="copy-note">The page copy, top to bottom. <span class="cta-marker">Button</span> marks a call to action.</p>
+      {% endif %}
+      <div class="copy{% if type == 'personal' %} copy-fiction{% endif %}{% if format == 'Website' %} copy-web{% endif %}">
+        {{ content | presentCopy | safe }}
+      </div>
+    </div>
+  </section>
+
+  <nav class="pager wrap" aria-label="More work">
+    {% if nav.prev %}<a class="pager-link" href="{{ nav.prev.url }}"><span class="muted">← Previous</span><strong>{{ nav.prev.data.title }}</strong></a>{% else %}<span></span>{% endif %}
+    {% if nav.next %}<a class="pager-link pager-next" href="{{ nav.next.url }}"><span class="muted">Next →</span><strong>{{ nav.next.data.title }}</strong></a>{% endif %}
+  </nav>
+</article>
