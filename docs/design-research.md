@@ -151,7 +151,28 @@ cover: /images/acme-email.webp
 
 ---
 
-## 8. Next steps
+## 8. Where the current Clippings.me site fits
+
+Current portfolio: <https://www.clippings.me/jade-robertson>. Each sample is a card that **links out to the live website** Jade wrote for.
+
+**What it already does well:** it's a writer-specific host (option 3 in the table above). Samples sit in one place with thumbnails, and the live links prove the work is real and published.
+
+**Gaps compared with what reviewers want:**
+
+| Gap | Why it matters | Fix |
+|---|---|---|
+| Clicking a sample takes the reviewer **off the portfolio** | Reviewers land on a full client site, have to work out which words are Jade's, and often don't come back for a second piece | Show the copy (or key excerpts plus a screenshot) on the portfolio itself; keep the live link as "See it live" |
+| **No context** per piece (brief, role, audience, result) | Hiring managers want to see the thinking and outcomes, not only the finished page | Add the "at a glance" block from section 2 to every sample |
+| **Link rot**: client sites get redesigned, rewritten, or taken down | A dead or rewritten link loses the sample entirely | **Archive now**: full-page screenshot + saved copy text of every linked page |
+| Hard to tell **which copy was Jade's** on a site with many contributors | Weakens the credit | State "My role: homepage, product pages, CTAs" on each sample |
+| Limited control over grouping, featured pieces, and layout | Can't put a "Top 3" first or filter by format | Use Clippings sections by format at minimum; the custom site gives full control |
+
+**Suggested path:**
+1. **Now (quick wins, still on Clippings):** archive every linked page; write a 2–3 line description per clip (brief · role · result); reorder so the 3 strongest are first; group clips into sections by format or industry; tighten the bio into a one-line positioning statement.
+2. **Next:** build the custom site in this repo, using the Clippings list as the content inventory. Each clip becomes one Markdown sample file with the archived screenshot, the copy as text, and the live link.
+3. **After launch:** point the Clippings profile (and LinkedIn / CV) to the new site, or keep Clippings as a secondary listing.
+
+## 9. Next steps
 
 1. Gather 8–12 candidate samples; pick the top 3–6 to feature.
 2. For each, write the at-a-glance block (role, deliverable, audience, result).
