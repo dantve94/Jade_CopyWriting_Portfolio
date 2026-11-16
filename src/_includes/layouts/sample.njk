@@ -7,18 +7,21 @@ layout: layouts/base.njk
     <a class="back-link" href="/work/#{{ section | slugify }}"><span aria-hidden="true">←</span> Back to all the work</a>
     <p class="eyebrow">{{ section }}{% if type == "personal" %} · Personal work{% endif %}</p>
     <h1 class="sample-title">{{ title }}</h1>
-    <p class="sample-sub">{% if type == "personal" %}Short fiction, published on {{ published_on }}{% else %}Written for {{ client }}{% endif %}</p>
+    <p class="sample-sub">{{ subline }}</p>
 
     <dl class="glance">
-      {% if type != "personal" %}
+      {% if type == "client" %}
       <div><dt>Client</dt><dd>{{ client }}</dd></div>
       <div><dt>Industry</dt><dd>{{ industry }}</dd></div>
+      {% elif type == "academic" %}
+      {% if institution %}<div><dt>Institution</dt><dd>{{ institution }}</dd></div>{% endif %}
+      <div><dt>Subject</dt><dd>{{ industry }}</dd></div>
       {% endif %}
       <div><dt>Format</dt><dd>{{ format }}</dd></div>
       {% if published %}<div><dt>Published</dt><dd>{{ published | monthYear }}</dd></div>{% endif %}
       {% if role %}<div><dt>My role</dt><dd>{{ role }}</dd></div>{% endif %}
       {% if result %}<div class="glance-result"><dt>Result</dt><dd>{{ result }}</dd></div>{% endif %}
-      <div><dt>Length</dt><dd>{{ content | readingTime }}</dd></div>
+      <div><dt>Length</dt><dd>{{ length_note or (content | readingTime) }}</dd></div>
     </dl>
 
     {% if note %}
@@ -30,6 +33,7 @@ layout: layouts/base.njk
 
     <div class="sample-actions">
       <a class="btn" href="#the-copy">Have a read</a>
+      {% if download %}<a class="btn btn-ghost" href="{{ download }}" download>Download the full {{ format | lower }} (PDF)</a>{% endif %}
       {% if live_url %}<a class="btn btn-ghost" href="{{ live_url }}" rel="noopener" target="_blank">See it live on {{ live_url | hostname }} <span aria-hidden="true">↗</span></a>{% endif %}
     </div>
   </header>

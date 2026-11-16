@@ -11,7 +11,7 @@ live_url: "https://parentingcollective.com.au/"
 published: ""
 role: ""
 result: ""
-featured: true
+featured: false
 order: 2
 excerpt: "Conscious parenting coach and secure sleep support from Donna Moala. Dr Shefali certified, never cry-it-out, newborns to teens. Perth or Zoom."
 ---

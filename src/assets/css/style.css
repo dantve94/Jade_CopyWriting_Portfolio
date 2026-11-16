@@ -283,3 +283,6 @@ mark { background: linear-gradient(transparent 62%, var(--sun-soft) 62%); color:
   .portrait, .portrait img { width: 150px; }
   .portrait img { height: 150px; }
 }
+
+/* Excerpt label inside academic pieces */
+.copy .excerpt-note { font-family: var(--font-ui); font-size: .85rem; color: var(--muted); background: var(--tint); border-radius: 4px; padding: 10px 14px; margin: -.2em 0 1.6em; }

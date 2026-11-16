@@ -25,10 +25,14 @@ export default function (eleventyConfig) {
     samples.filter((s) => s.data.section === section)
   );
 
-  // Unique client names (or story titles for personal work) for a section.
-  eleventyConfig.addFilter("rangeNames", (samples) => [
-    ...new Set(samples.map((s) => (s.data.type === "personal" ? s.data.title : s.data.client))),
-  ]);
+  // Summary names for a section: client names, story titles, or formats ("Micro courses").
+  eleventyConfig.addFilter("rangeNames", (samples) => {
+    const names = samples.map((s) =>
+      s.data.type === "client" ? s.data.client : s.data.type === "academic" ? s.data.format : s.data.title
+    );
+    const counts = names.reduce((m, n) => m.set(n, (m.get(n) || 0) + 1), new Map());
+    return [...counts].map(([n, c]) => (c > 1 ? n + "s" : n));
+  });
 
   eleventyConfig.addFilter("featured", (samples) => samples.filter((s) => s.data.featured));
 

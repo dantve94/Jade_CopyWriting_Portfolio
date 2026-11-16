@@ -11,7 +11,7 @@ published: ""
 role: ""
 result: ""
 featured: false
-order: 7
+order: 11
 excerpt: "I felt like pancakes when I woke up this morning. I imagined the sweet scent of butter melting in the pan as I lay in bed. It's been rough, this life thing lately. I find myself floating, pleasure-seeking and chasing."
 ---
 ## Copy

@@ -5,7 +5,7 @@
       {% if item.data.type == "personal" %}<span class="tag tag-quiet">Personal work</span>{% endif %}
     </div>
     <h3 class="card-title">{{ item.data.title }}</h3>
-    <p class="card-client">{% if item.data.type == "personal" %}Published on {{ item.data.published_on }}{% else %}{{ item.data.client }}{% endif %}{% if item.data.industry and item.data.type != "personal" %} · {{ item.data.industry }}{% endif %}</p>
+    <p class="card-client">{{ item.data.byline }}</p>
     <p class="card-excerpt">{{ item.data.excerpt | truncate(170) }}</p>
     <span class="card-cta">Have a read <span aria-hidden="true">→</span></span>
   </a>

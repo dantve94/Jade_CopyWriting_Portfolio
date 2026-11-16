@@ -2,8 +2,8 @@
 
 PDF exports of every page of the portfolio site, in the sunflower theme, ready to import into Canva as editable designs.
 
-- `Jade-Robertson-Portfolio-all-pages.pdf`: all 12 pages in one file (one Canva design with 12 pages)
-- `01-home.pdf` … `12-work-her-whisper.pdf`: one page each, if you only want to edit a single page
+- `Jade-Robertson-Portfolio-all-pages.pdf`: all 17 pages in one file (one Canva design with 17 pages)
+- `01-home.pdf` … `17-work-9-goshawk-street.pdf`: one page each, if you only want to edit a single page
 
 ## Import into Canva
 

@@ -11,7 +11,7 @@ published: ""
 role: ""
 result: ""
 featured: false
-order: 8
+order: 12
 excerpt: "I loved my childhood home. With its creaky floors and oddly painted walls. My mother couldn't decide on a colour when it came time to paint the house, so we settled on them all. I remember the Sundays we played board games and the nights listening to the floors creak as my parents danced their nights away."
 ---
 ## Copy

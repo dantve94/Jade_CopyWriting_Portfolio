@@ -11,7 +11,7 @@ published: ""
 role: ""
 result: ""
 featured: false
-order: 9
+order: 13
 excerpt: "He wanted her. Of course he couldn't say that to the crew. He was there to make sure she didn't escape. So that it wasn't like the last time. He didn't like it, guarding her that is. He was afraid, he was confused, he was also not exactly afraid."
 ---
 ## Copy
