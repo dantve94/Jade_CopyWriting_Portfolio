@@ -1,0 +1,22 @@
+# Serves the built portfolio on port 80 inside the container.
+# Plain HTTP: fine on a home network. For HTTPS, see deploy/README.md.
+:80 {
+	root * /srv
+	encode zstd gzip
+	file_server
+
+	header {
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+		X-Frame-Options SAMEORIGIN
+	}
+
+	# Cache CSS, JS and images for a day; HTML is always fresh.
+	@assets path /assets/*
+	header @assets Cache-Control "public, max-age=86400"
+
+	handle_errors {
+		rewrite * /404.html
+		file_server
+	}
+}

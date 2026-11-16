@@ -1,0 +1,8 @@
+.git
+node_modules
+_site
+exports
+docs
+deploy/*.md
+*.log
+.DS_Store

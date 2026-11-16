@@ -1,0 +1,13 @@
+# Run the portfolio on your home network:
+#   docker compose up -d --build
+# Then open http://<this-computer's-IP>:8080 from any device on the network.
+# Details and reverse-proxy options: deploy/README.md
+services:
+  portfolio:
+    build:
+      context: .
+      dockerfile: deploy/Dockerfile
+    container_name: jade-portfolio
+    ports:
+      - "8080:80"
+    restart: unless-stopped

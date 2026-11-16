@@ -56,6 +56,8 @@ Site-wide details (name, positioning line, intro, email, LinkedIn, optional rés
 
 `netlify.toml` is set up: connect this repo in Netlify and it builds with `npm run build` and publishes `_site/`. Any static host works the same way.
 
+To run it on your home network (Docker + Caddy, with reverse-proxy examples), see [`deploy/README.md`](deploy/README.md): `docker compose up -d --build`, then open `http://<host-ip>:8080`.
+
 ## Other files
 
 - `content/REVIEW.md`: checklist of things to confirm or fix in the copy before launch
