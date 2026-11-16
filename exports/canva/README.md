@@ -2,7 +2,7 @@
 
 PDF exports of every page of the portfolio site, in the sunflower theme, ready to import into Canva as editable designs.
 
-- `Jade-Robertson-Portfolio-all-pages.pdf`: all 17 pages in one file (one Canva design with 17 pages)
+- `Jade-Robertson-Portfolio-all-pages.pdf`: every page of the site in one file (17 pages, plus a second page for the extra-long Parenting Collective sample)
 - `01-home.pdf` … `17-work-9-goshawk-street.pdf`: one page each, if you only want to edit a single page
 
 ## Import into Canva
@@ -11,7 +11,7 @@ PDF exports of every page of the portfolio site, in the sunflower theme, ready t
 2. Pick the PDF. Canva converts it into an editable design: text becomes editable text boxes and shapes become editable elements.
 3. If Canva swaps a font, set it back to the theme fonts below (both are in Canva's font library).
 
-Each page is one long canvas, 1280px wide, the same as the website on a desktop.
+Each page is one long canvas, 1280px wide, the same as the website on a desktop. Pages taller than about 7,800px are split in two to stay within Canva's size limit.
 
 ## Theme reference
 
