@@ -29,7 +29,7 @@ Fun and games aside, there are strict rules to be followed by anyone and everyon
 
 #### The goal?
 
-The goal in kickboxing is to knock out your opponent or force the referee to stop the fight - the boxer with the most points wins! If both fighters have the same number of points the fight is considered a draw. There are several ways a match can be won:
+The goal in kickboxing is to knock out your opponent or force the referee to stop the fight. If neither happens, the boxer with the most points wins! If both fighters have the same number of points the fight is considered a draw. There are several ways a match can be won:
 
 - **Knockout:** When one fighter strikes their opponent in such a way that they cannot continue to fight. The ref counts to 10 and if the opponent does not continue to fight, then the striker becomes the winner of the match.
 - **Technical Knockout (TKO):** This happens when one fighter is no longer able to defend themselves. A TKO ends the fight on the spot and, you guessed it, the striker wins the match.
@@ -43,7 +43,7 @@ Perfecting your stance means one thing, better boxing. Your stance is everything
 
 - **The Jab:** Let's start with what is arguably the most important punch in kickboxing, the Jab. This punch takes place with some distance before striking, providing the fighter with the opportunity to learn proper distance techniques. This means stronger punches.
 - **The cross:** This punch is a power-punch for sure and is thrown with the rear hand. The fighter gets into the guard position and then the rear hand is thrown from the chin travelling straight towards the opponent.
-- **The hook:** A semi-circular punch thrown with the lead hand to the side of the opponent's head and down. This punch is usually aimed at the torso.
+- **The hook:** A semi-circular punch thrown with the lead hand, aimed at the side of the opponent's head or body.
 - **The uppercut:** A vertical, rising punch thrown with the rear hand toward the opponent.
 
 #### The basic kicks
@@ -52,7 +52,7 @@ Perfecting your stance means one thing, better boxing. Your stance is everything
 - **Roundhouse kick:** This kick uses a wide sweeping motion of the leg and rotation of the body to maximise the impact of the shin hitting the opponent. Please don't kick with your toes, it doesn't end well.
 - **Side kicks:** This kick is executed by raising the knee of the kicking leg to the side and then extending the leg outwards in a straight line to strike the target with the foot, preferably the heel.
 
-#### Key defences Positions
+#### Key defensive positions
 
 - **High block:** A high block in kickboxing is a defensive move where you raise your arm or leg high (hence the name) to block incoming strikes aimed at the upper part of your body, such as punches or kicks.
 - **Low block:** In a low block the fighter uses a low stance to protect the lower part of their body, basically the torso or legs, from incoming strikes. It involves using your arms or legs to intercept and deflect kicks or punches aimed at your midsection or lower body.
@@ -66,6 +66,6 @@ Perfecting your stance means one thing, better boxing. Your stance is everything
 - **Obsessively chasing headshots:** It's exciting to be in the ring, we get it. As you grow you will learn that headshots aren't always the go-to.
 - **Not being consistent:** This is our most essential tip for beginners: Growing into yourself as a boxer through dedication and continuous training.
 
-Kickboxing will literally and metaphorically keep you fighting fit! If you are looking for a confidence boost, to blow off some steam or to lead a healthier life we are right by your side, guiding you every punch on the way.
+Kickboxing will literally and metaphorically keep you fighting fit! If you are looking for a confidence boost, to blow off some steam or to lead a healthier life we are right by your side, guiding you every punch of the way.
 
 **[CTA] Give us a call**

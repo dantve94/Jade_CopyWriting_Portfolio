@@ -56,7 +56,7 @@ Note: Important to note is there will be NO way to export your historical UA dat
 
 Google says, “Google Analytics has always offered a free version to help businesses of all sizes and stages to better analyse and improve their websites and apps. This mission hasn’t changed.”
 
-GA4 will therefore also come with a free version – and this will come with some great features previously available only with a paid GA360 subscription
+GA4 will therefore also come with a free version – and this will come with some great features previously available only with a paid GA360 subscription.
 
 The most valuable feature is free BigQuery export. While standard GA users could already take advantage of the reporting or management APIs, this simply doesn’t stack up to the depth of data available in the BigQuery export, and also requires development effort.
 

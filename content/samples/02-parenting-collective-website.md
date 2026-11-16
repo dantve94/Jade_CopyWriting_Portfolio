@@ -19,7 +19,7 @@ excerpt: "Conscious parenting coach and secure sleep support from Donna Moala. D
 
 ### Calmer homes Secure sleep Connected kids
 
-Conscious Parenting Coaching and Secure Sleep Support with Donna Moala, with over 21 years experience and Certified with the Dr Shefali Institute. Nurturing and never cry-it-out. Based in Perth, supporting families worldwide, from Newborns all the way through to teens.
+Conscious Parenting Coaching and Secure Sleep Support with Donna Moala, with over 21 years’ experience and Certified with the Dr Shefali Institute. Nurturing and never cry-it-out. Based in Perth, supporting families worldwide, from Newborns all the way through to teens.
 
 **[CTA] Book a free 15-minute chat**
 
@@ -54,11 +54,11 @@ The Optimal Sleep Package is a fully personalised, responsive plan tailored to y
 
 Tailored to your family and child's unique individual needs, never a one-size-fits-all template.
 
-Every child is different and so is their sleep requirements. Age, temperament, and personality all shape what your child needs to rest well, and your package is built around exactly that.
+Every child is different and so are their sleep requirements. Age, temperament, and personality all shape what your child needs to rest well, and your package is built around exactly that.
 
 Each package includes:
 
-- A private family sleep & parenting portal, with life time access.
+- A private family sleep & parenting portal, with lifetime access.
 - A 60 minute 1:1 Consultation (zoom or in-home) and Personalised Sleep plan created for your child and family.
 - 21 days of dedicated support, including unlimited 1:1 WhatsApp messaging and phone calls
 - Your own Rested App Sleep login, so your coach can analyse your child’s sleep daily and adjust as you go
@@ -66,7 +66,7 @@ Each package includes:
 
 ##### A fully personalised plan
 
-Written for your unique child, your home and your family's values. Never a script. FREE Life Time access to all of Parenting Collective ebooks, charts and downloadables.
+Written for your unique child, your home and your family's values. Never a script. FREE lifetime access to all of Parenting Collective ebooks, charts and downloadables.
 
 ##### In-home or Zoom
 

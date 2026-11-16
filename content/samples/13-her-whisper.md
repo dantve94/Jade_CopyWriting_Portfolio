@@ -32,8 +32,8 @@ He slipped his hand into his pocket and there it was. The key. Surely she should
 
 He couldn't help but look at her. She wasn't the half woman, half sea creature that she was when she was captured. She was another woman he had never laid his eyes on. So soft in the dim light coming through the wooden planks above her head. The merry sailors stamping around causing dust to fall onto her skin. Catching the little light there was, she looked like a vision.
 
-Her legs where there were scales, looked soft to the touch. Her hips catching the shadows just enough to subtly say they were there. Her shining body reaching two breasts. He couldn't avert his eyes. He knew it was her illusion but did it even matter anymore? The curves of her breasts, her lips, the small of her neck. This was unlike anything he had ever seen.
+Her legs, where there had been scales, looked soft to the touch. Her hips catching the shadows just enough to subtly say they were there. Her shining body reaching two breasts. He couldn't avert his eyes. He knew it was her illusion but did it even matter anymore? The curves of her breasts, her lips, the small of her neck. This was unlike anything he had ever seen.
 
-He slipped his hand into his pocket again. "Just for a little" he said as he slowly brought the key towards the lock. Turning it with hesitation the locked clinked and fell to the ground. Would he unchain her? He hoped not.
+He slipped his hand into his pocket again. "Just for a little" he said as he slowly brought the key towards the lock. Turning it with hesitation the lock clinked and fell to the ground. Would he unchain her? He hoped not.
 
 It happened too quickly, he could barely scream. She grabbed him by the neck, pushing her claw-like nails under his skin. He could not breathe. The pain started in his abdomen and quickly became him. He tasted metal and he felt himself giving into the red and then the dark. The last thing he ever heard was the crew screaming.

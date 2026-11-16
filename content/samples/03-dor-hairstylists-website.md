@@ -118,7 +118,7 @@ Elevate your hair game with ease! Our online hair care boutique offers a diverse
 
 ##### Men’s Styling
 
-##### Kids Styling
+##### Kids’ Styling
 
 #### What Our Clients Say
 

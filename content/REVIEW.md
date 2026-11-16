@@ -43,9 +43,11 @@ The copy in `samples/` comes from the live pages linked on Clippings.me (Novembe
 - **01 SuperSleeper:** the line "To where it all began – with innovative design…" may have been edited after handover.
 - **03 D'or Hairstylists:** the services list and product blurbs may be template or shop copy.
 
-## 4. Proofreading flags
+## 4. Proofreading fixes (applied 16 Nov 2026)
 
-| # | Current text | Suggested fix |
+All of the fixes below have been made in the portfolio versions. The live client websites still have the original wording; Jade may want to pass these on to the clients.
+
+| # | Was | Now |
 |---|---|---|
 | 02 | "over 21 years experience" | "over 21 years' experience" |
 | 02 | "so is their sleep requirements" | "so are their sleep requirements" |
@@ -54,13 +56,15 @@ The copy in `samples/` comes from the live pages linked on Clippings.me (Novembe
 | 04 | "The range of treatment options includes but are not limited to" | "Treatment options include, but are not limited to," |
 | 04 | "It is dangerous to perform on your own frenulum-related procedure" | "It is dangerous to perform a frenulum-related procedure on yourself" |
 | 04 | "We are discrete, professional" | "We are discreet, professional" |
-| 05 | "knock out your opponent or force the referee to stop the fight - the boxer with the most points wins" | split the two ideas: win by knockout or stoppage; otherwise the fighter with the most points wins |
-| 05 | The hook: "to the side of the opponent's head and down. This punch is usually aimed at the torso." | pick one target (head or body) |
+| 05 | "knock out your opponent or force the referee to stop the fight - the boxer with the most points wins" | "…force the referee to stop the fight. If neither happens, the boxer with the most points wins!" |
+| 05 | The hook: "to the side of the opponent's head and down. This punch is usually aimed at the torso." | "…thrown with the lead hand, aimed at the side of the opponent's head or body." |
 | 05 | "Key defences Positions" | "Key defensive positions" |
 | 05 | "guiding you every punch on the way" | "every punch of the way" |
-| 06 | "Ceramides are a type of fat found in the membrane of cells that cover the nerves" | "Ceramides are fats (lipids) found naturally in the skin's outer layer" |
+| 06 | "Ceramides are a type of fat found in the membrane of cells that cover the nerves" | "Ceramides are fats (lipids) found naturally in the skin's outer layer." |
 | 08 | "previously available only with a paid GA360 subscription" (no full stop) | add the full stop |
-| 11–13 | see earlier flags: "hum the Für Elise" → "hum Für Elise"; "Her legs where there were scales" → "Her legs, where there had been scales,"; "the locked clinked" → "the lock clinked" | |
+| 12 | "hum the Für Elise" | "hum Für Elise" |
+| 13 | "Her legs where there were scales" | "Her legs, where there had been scales," |
+| 13 | "the locked clinked" | "the lock clinked" |
 | 14 | "rascal pulled on the leash" | "Rascal pulled on the leash" |
 | 14 | "the neighbours house" / "the neighbours door" | "the neighbour's house" / "door" |
 | 14 | "The old man had lead her" | "had led her" |

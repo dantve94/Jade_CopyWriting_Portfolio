@@ -42,7 +42,7 @@ While there exist an array of potential challenges when it comes to the penis an
 
 #### What are some common treatments involving the frenulum?
 
-There are treatments available for frenulum issues that range from minimally invasive and topical to more procedure-based solutions. It is always best to contact a professional to assist and advise you with any frenulum and related issues. The range of treatment options includes but are not limited to:
+There are treatments available for frenulum issues that range from minimally invasive and topical to more procedure-based solutions. It is always best to contact a professional to assist and advise you with any frenulum and related issues. Treatment options include, but are not limited to:
 
 - **Stretching exercises:** Your doctor might suggest simple stretches you can do to alleviate tension. However, the frenulum tissue is not as responsive to stretching as other tissue in the body.
 - **Steroid creams or lotions:** In some instances, you may be prescribed products containing steroids.
@@ -64,7 +64,7 @@ Professional consultation is absolutely necessary when you are ready to take the
 
 We are here to help. Many men feel embarrassed about their penises especially if they suspect there is something challenging about them, like painful intercourse, tearing, inflammation etc. This might make approaching a clinic or doctor difficult. We strongly urge you, however, to not try to "fix" any frenulum issues at home. There are multiple reasons for this:
 
-1. **It is dangerous to perform on your own frenulum-related procedure:** You cannot know for certain how much you will bleed from the incision. This is just one of the risks. While the success rate of many procedures to address frenulum issues are high, it is a sensitive area where an infection or improper care can have serious consequences like a loss of feeling in the penis.
+1. **It is dangerous to perform a frenulum-related procedure on yourself:** You cannot know for certain how much you will bleed from the incision. This is just one of the risks. While the success rate of many procedures to address frenulum issues are high, it is a sensitive area where an infection or improper care can have serious consequences like a loss of feeling in the penis.
 2. **It will most likely be very painful:** Doctors use local anaesthetic during procedures. Since it is a very sensitised area, there will likely be some pain which is best dealt with by a medical professional. It is not advisable to undergo treatments like frenuloplasty and a frenulectomy without the careful consultation and advice from your doctor.
 3. **You risk getting an infection:** Infection is always a risk with any surgery and precautions should always be taken. Your doctor is best poised to deal with an infection and seeking professional advice and services could avoid the advent of an infection entirely. Seeking professional advice from reputable healthcare providers minimises this risk. You might, for example, need a course of antibiotics in which case your doctor is best positioned to help.
 4. **Pain and swelling will need to be managed and your doctor is best poised to do this:** There will very possibly be swelling as well as some pain and bruising. Your doctor is best positioned to treat postoperative symptoms.
@@ -86,6 +86,6 @@ Upon consultation, it became clear that the patient was exhibiting mild balaniti
 
 After consulting the doctor, both penile frenuloplasty and circumcision were recommended. The procedure took place under local anaesthetic and the whole procedure took just over an hour. The patient did not require any pain medication after the procedure and returned to his desk job the next day. He was seen four weeks later and was advised that he could return to sexual activity the following week.
 
-You can seek professional help today. If you suspect there might be something you need to consult a doctor about you should. We can help. We are discrete, professional and have the skills and tools needed to safely and effectively help you with any frenulum issues you may have. Give us a call today.
+You can seek professional help today. If you suspect there might be something you need to consult a doctor about you should. We can help. We are discreet, professional and have the skills and tools needed to safely and effectively help you with any frenulum issues you may have. Give us a call today.
 
 **[CTA] Give us a call**

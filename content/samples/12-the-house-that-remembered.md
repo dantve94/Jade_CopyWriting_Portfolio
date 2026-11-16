@@ -20,7 +20,7 @@ excerpt: "I loved my childhood home. With its creaky floors and oddly painted wa
 
 I loved my childhood home. With its creaky floors and oddly painted walls. My mother couldn't decide on a colour when it came time to paint the house, so we settled on them all. I remember the Sundays we played board games and the nights listening to the floors creak as my parents danced their nights away. I remember many sunny days and many bright rooms. Although we were never allowed in gran's room I am sure it was sunny too. She moved away when I was young. I can't quite remember why.
 
-My mother would always hum the Für Elise. I heard it coming from my gran's room once too, though my gran never spoke. My mom must have been in there at the time. I only ever tried to go into my gran's room once, it was locked. Come to think of it, it's a bit strange. I could laugh about it now. I didn't question it at the time.
+My mother would always hum Für Elise. I heard it coming from my gran's room once too, though my gran never spoke. My mom must have been in there at the time. I only ever tried to go into my gran's room once, it was locked. Come to think of it, it's a bit strange. I could laugh about it now. I didn't question it at the time.
 
 Then one day my gran disappeared. I smelled her perfume everywhere for months still, but she never came back. My mom told us she "moved away". Nobody ever mentioned her again, normal right? I guess in the back of my mind there were things unseen, things unsaid. Soft voices behind the locked door, urgent but muffled, like the house itself was swallowing its words. In the morning, everything was as it should be. Breakfast on the table. Smiling faces.
 

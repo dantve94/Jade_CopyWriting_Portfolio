@@ -31,7 +31,7 @@ For many, dry skin is a daily concern. The good news is there are solutions avai
 After any treatment, and in general, you want to keep your skin fresh and clear with the right moisturisers and serums. We highly recommend looking at the back of the moisturiser you might choose and see if it has any of the following:
 
 1. **Hyaluronic Acid:** This acid is part of your eyes, joints and skin and its job is to retain moisture. When you use skin care products with Hyaluronic Acid you are really locking in moisture.
-2. **Ceramides:** Ceramides are a type of fat found in the membrane of cells that cover the nerves. When applied to the skin, it aids in keeping it moisture-balanced and protects it from dehydration.
+2. **Ceramides:** Ceramides are fats (lipids) found naturally in the skin's outer layer. When applied to the skin, it aids in keeping it moisture-balanced and protects it from dehydration.
 3. **Glycerin:** Find a moisturiser or serum for your skin that contains glycerin. This ingredient draws water into the skin's outer layer and is common in face creams but be sure to look out for it.
 4. **Niacinamide:** Niacinamide helps the skin's lipid barrier function, which locks in moisture.
 5. **Squalane:** It is a natural oil that's used in many skincare products to moisturise the skin while keeping it hydrated.

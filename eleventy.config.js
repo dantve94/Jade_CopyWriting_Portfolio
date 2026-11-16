@@ -4,6 +4,8 @@ export default function (eleventyConfig) {
   eleventyConfig.ignores.add("content/REVIEW.md");
   eleventyConfig.ignores.add("content/bio.md");
   eleventyConfig.ignores.add("README.md");
+  eleventyConfig.ignores.add("deploy/**");
+  eleventyConfig.ignores.add("exports/**");
 
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
 
